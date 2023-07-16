@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm DEK IBRAHIM MUSE</h1>
-<h3 align="center">As long as you are hungry, you are still successful</h3>
-  <h5 align="center">A passionate full stack developer from jigjiga Ethiopia</h5>
+<h1 align="left">Hi 👋, I'm DEK IBRAHIM MUSE</h1>
+<h3 align="left">As long as you are hungry, you are still successful</h3>
+  <h5 align="left">A passionate full stack developer from jigjiga Ethiopia</h5>
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI2MjBhMjRlMzAxOTdlNGMxZDNjNTc1MzYxYjJiZjM3YTQ3MDdhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt"coden" >
 <ul align="left">
 
