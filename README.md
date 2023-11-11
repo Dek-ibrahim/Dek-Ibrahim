@@ -4,7 +4,6 @@
 <ul align="left">
 
 
-
   
   <li align="left">"Allow positivity to be your guiding light, illuminating your path with happiness."</li>
 </ul>
